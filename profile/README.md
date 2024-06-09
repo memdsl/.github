@@ -1,3 +1,5 @@
 # [MicroElectronics & MicroDynamics] Systems Lab
 
 **Our goal is to create smarter robotic systems by customizing a series of open source processors**. Processors are the absolute core of all current computing devices, if we want to significantly improve the overall performance of robotic systems, its design becomes critical. To this end, we plan to build a complete open source processor ecosystem around the RISC-V instruction set, covering processor cores, IP/SoC, runtime environment, various tools, online platforms, etc, to help users quickly build robot chips or chips for other application scenarios.
+
+This Lab is a non-profit, international open source organization that does not belong to any university, research institute or commercial company in any country. We welcome enthusiasts from all over the world who are interested in processors and robots to join us and jointly promote the continuous integration and innovation in the **Processor + Robot** field, and truly help people solve some problems encountered in life!
