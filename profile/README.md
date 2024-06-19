@@ -1,6 +1,8 @@
 # [MicroElectronics & MicroDynamics] Systems Lab
 
-![MEMDSL Logo](https://avatars.githubusercontent.com/u/172366749?s=300&v=4)
+<!-- ![MEMDSL Logo](https://avatars.githubusercontent.com/u/172366749?s=300&v=4) -->
+
+<img src="../images/memdsl.png" alt="MEMDSL Logo" width="300px" />
 
 **Our goal is to create smarter robotic systems by customizing a series of open source processors**. Processors are the absolute core of all current computing devices, if we want to significantly improve the overall performance of robotic systems, its design becomes critical. To this end, we plan to build a complete open source processor ecosystem around the RISC-V instruction set, covering processor cores, IP/SoC, runtime environment, various tools, online platforms, etc, to help users quickly build robot chips or chips for other application scenarios.
 
